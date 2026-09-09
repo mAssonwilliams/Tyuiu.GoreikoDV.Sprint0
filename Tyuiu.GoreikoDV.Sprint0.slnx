@@ -2,4 +2,8 @@
   <Folder Name="/Task0/">
     <Project Path="Tyuiu.GoreikoDV.Sprint0.Task0.V0/Tyuiu.GoreikoDV.Sprint0.Task0.V0.csproj" />
   </Folder>
+  <Folder Name="/Task1/">
+    <File Path=".editorconfig" />
+    <Project Path="Tyuiu.GoreikoDV.Sprint0.Task1.V0/Tyuiu.GoreikoDV.Sprint0.Task1.V0.csproj" />
+  </Folder>
 </Solution>
